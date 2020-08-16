@@ -72,6 +72,10 @@ The game can be cleared in an hour or two. However, most of time your character 
 
 While the randomness provides a decent amount of complexity, it might not be the main source of fun. For a lot of games, the fun is provided by combos -- interactions between various items, skills or cards, depending on the game. We would like to offer this layer of fun also in our game. This will be a real challenge, as making a cool interaction between random distributions might be difficult.
 
+### Encounter mechanics
+
+As encounters will be a core part of the game, the mechanics of the encounters need to be simple & fun. This is a pretty big challenge, due to all the above requirements. Ideas for implementation of mechanics are described in detail [here](https://github.com/cedeerwe/quantized/tree/master/docs/mechanics).
+
 ## Interested?
 
 Get in touch!
